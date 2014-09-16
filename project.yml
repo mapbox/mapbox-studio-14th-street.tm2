@@ -19,7 +19,7 @@ interactivity_layer: ''
 layers: null
 maxzoom: 22
 minzoom: 15
-name: Georgia Avenue
+name: 14th Street
 source: "mapbox:///mapbox.mapbox-streets-v5"
 styles: 
   - style.mss
