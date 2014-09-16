@@ -1,3 +1,3 @@
-Mapbox light
+14th Street
 ===========================
-Light basemap style for [Mapbox Studio](https://github.com/mapbox/mapbox-studio).
+[Mapbox Studio](https://github.com/mapbox/mapbox-studio) demo map on regular expressions.
